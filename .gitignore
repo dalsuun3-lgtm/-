@@ -1,0 +1,4 @@
+# 원본 소스에는 평문 DART 키(내장 폴백)가 들어 있어 저장소에 올리지 않는다 (감사 F-01)
+konai_v*.py
+__pycache__/
+.pytest_cache/
